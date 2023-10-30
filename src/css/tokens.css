@@ -1,0 +1,36 @@
+/* foundation tokens*/
+
+
+:root{
+    
+    /*colors */
+
+    --neutral-8: hsla(221, 13%, 8%, 1);
+    --neutral-7: hsla(225, 8%, 9%, 1);
+    --neutral-6: hsla(228, 9%, 11%, 1);
+    --neutral-5: hsla(225, 10%, 13%, 1);
+    --neutral-4: hsla(225, 10%, 15%, 1);
+    --neutral-3: hsla(225, 10%, 19%, 1);
+    --neutral-2: hsla(225, 10%, 26%, 1);
+    --neutral-1: hsla(225, 10%, 35%, 1);
+
+
+    /* semantic tokens */
+
+    --colors-brackground-main: var(--neutral-8);
+
+
+
+    /* aligns for containers */
+
+    
+
+    --align-container-center: {display: flex; align-items: center; justify-content: space-between;}
+
+
+
+
+
+
+}
+
